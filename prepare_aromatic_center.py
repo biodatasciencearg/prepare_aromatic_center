@@ -1,5 +1,6 @@
 #!/usr/bin/python2.7 
 
+# Este script es para probar que onda.
 import sys, os
 import openbabel, pybel
 from itertools import chain
